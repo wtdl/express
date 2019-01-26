@@ -2,6 +2,7 @@
   "name": "wtdl/express",
   "description": "简单的快递查询接口。",
   "license": "MIT",
+  "version": "v1.1.0",
   "keywords": [
     "快递",
     "express",
