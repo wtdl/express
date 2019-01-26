@@ -1,0 +1,25 @@
+{
+  "name": "wtdl/express",
+  "description": "简单的快递查询接口。",
+  "license": "MIT",
+  "keywords": [
+    "快递",
+    "express",
+    "快递查询"
+  ],
+  "authors": [
+    {
+      "name": "pengjian",
+      "email": "szwtdl@gmail.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^6.3"
+  },
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "Wtdl\\Express\\": "src/"
+    }
+  }
+}
